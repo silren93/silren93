@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trần Lâm Ngọc Khanh</h1>
 <h3 align="center">I am a student in the Japanese Information Technology program at the University of Information Technology, part of Vietnam National University - Ho Chi Minh City.</h3>
-<img align="right" alt="Coding" width="400" src"https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRiMjRkMTIycmtzNWYxOWlzdGRlbmthNDlrMTQ1aWY3aHhhdXByayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HCwnYWnMgLZUW1BtP2/giphy.gif"
+<img align="right" alt="Coding" width="400" src"https://i.giphy.com/HCwnYWnMgLZUW1BtP2.webp"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silren93&label=Profile%20views&color=0e75b6&style=flat" alt="silren93" /> </p>
 
 - 🌱 I’m currently learning **SQL**
