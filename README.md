@@ -1,3 +1,5 @@
+[![GIF](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)](https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm)
+
 <h1 align="center">Hi 👋, I'm Trần Lâm Ngọc Khanh</h1>
 <h3 align="center">I am a student in the Japanese Information Technology program at the University of Information Technology, part of Vietnam National University - Ho Chi Minh City.</h3>
 
