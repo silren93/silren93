@@ -1,7 +1,11 @@
-[![GIF](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)](https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm)
+<div style="display: flex; align-items: center;">
+    <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="GIF 1" width="450"/>
+    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="GIF 2" width="450" style="margin-left: 20px;"/>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Trần Lâm Ngọc Khanh</h1>
-<h3 align="center">I am a student in the Japanese Information Technology program at the University of Information Technology, part of Vietnam National University - Ho Chi Minh City.</h3>
+<h3 text-align: justify; align=" allowfullscreen">I am passionate about technology and innovation, with a focus on Japanese Information Technology. <br> My interests lie in exploring new technologies and applying them to solve real-world problems.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/HCwnYWnMgLZUW1BtP2.webp" />
 
@@ -9,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=silren93&label=Profile%20views&color=0e75b6&style=flat" alt="silren93" />
 </p>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently expanding my knowledge in **SQL** and **Web Development**
 
 - 📫 How to reach me **me123lac@gmail.com**
 
