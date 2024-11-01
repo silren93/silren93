@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=silren93&label=Profile%20views&color=0e75b6&style=flat" alt="silren93" />
 </p>
 
-- 🌱 I’m currently expanding my knowledge in **SQL** and **Web Development**
+- 😸 Currently, I am designing the frontend using ***HTML, CSS, and Bootstrap***, and building the backend with ***PHP and Python***.
 
 - 📫 How to reach me **me123lac@gmail.com**
 
