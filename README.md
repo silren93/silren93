@@ -4,7 +4,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Trần Lâm Ngọc Khanh</h1>
+<h1 align="center">Hi, I'm Trần Lâm Ngọc Khanh</h1>
 <h3 text-align: justify; align=" allowfullscreen">I am passionate about technology and innovation, with a focus on Japanese Information Technology. <br> My interests lie in exploring new technologies and applying them to solve real-world problems.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/HCwnYWnMgLZUW1BtP2.webp" />
